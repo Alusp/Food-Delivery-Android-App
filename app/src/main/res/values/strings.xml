@@ -6,4 +6,6 @@
     <string name="city">City</string>
     <string name="pin_code">Pin Code</string>
     <string name="sign_in">Sign In</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
 </resources>
