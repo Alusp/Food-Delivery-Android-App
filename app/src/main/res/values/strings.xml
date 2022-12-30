@@ -2,4 +2,8 @@
     <string name="app_name">Food Delivery App</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_fill_all_the_details_and_continue">Please,Fill all the details and Continue</string>
+    <string name="city">City</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="sign_in">Sign In</string>
 </resources>
